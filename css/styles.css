@@ -1,0 +1,99 @@
+body {
+  padding-bottom: 70px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navbar-default {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.jumbotron {
+  padding-top: 250px;
+  padding-right: 10px;
+  padding-left: 10px;       
+  background-image: url('../images/Ocean.jpeg');
+  background-attachment: static;
+  background-repeat: no-repeat;
+  background-size:  cover;
+  background-position: center;
+  color: white;
+  text-shadow: 1px 1px #060606;
+  font-variant-position: 10px;
+  min-height: 80vh;
+}
+
+.circle {
+  width:150px;
+  height:150px;
+  border-radius:150%;
+  background-image: url('../images/me2.jpeg');
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 50%; 
+  position: absolute;
+  top: 475px;
+  left: 540px;
+
+}
+
+.row {
+  padding-top: 91px;
+  padding-bottom: 61px;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-height: 50vh;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #306a7f;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-color; black;
+}
+
+.hvr-glow {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow;
+    transition-property: box-shadow;
+}
+
+.fa-github-square {
+  font-size: 24px;
+  color: silver;
+}
+
+.fa-facebook-square {
+  font-size: 24px;
+  color: silver;
+}
+
+.footer {
+  background: #306a7f;
+  padding-right: 10px;
+  padding-left: 10px;     
+  color: #fff;
+  font-size: 24px;
+  height: 37px;
+  background-position: center;
+}
+
