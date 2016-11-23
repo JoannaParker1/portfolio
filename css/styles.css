@@ -21,7 +21,7 @@ body {
   color: white;
   text-shadow: 1px 1px #060606;
   font-variant-position: 10px;
-  min-height: 80vh;
+  min-height: 75vh;
 }
 
 .circle {
@@ -33,7 +33,7 @@ body {
   border-width: 1px;
   border-style: solid;
   border-radius: 50%; 
-  position: absolute;
+  position: center-bottom;
   top: 475px;
 }
 
