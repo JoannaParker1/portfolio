@@ -35,8 +35,9 @@ body {
   border-style: solid;
   border-radius: 50%; 
   text-align: center;
-  margin-top: 70vh;
-  /*top: 475px;*/
+  top-padding: 70vh;
+  min-height: 150px;
+  max-height: 150px;
   /*position: bottom-center;*/
   /*margin-top: 20vh;*/
 }
