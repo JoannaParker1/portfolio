@@ -22,6 +22,7 @@ body {
   text-shadow: 1px 1px #060606;
   font-variant-position: 10px;
   min-height: 70vh;
+  max-height: 70vh !important; 
 }
 
 .circle {
@@ -33,9 +34,9 @@ body {
   border-width: 1px;
   border-style: solid;
   border-radius: 50%; 
-  text-align: center;
-  /*position: bottom-center;*/
-  top: 575px;
+  /*text-align: center;*/
+  position: bottom-center;
+  /*top: 575px;*/
 }
 
 .row {
