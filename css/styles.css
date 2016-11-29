@@ -13,7 +13,7 @@ body {
   padding-top: 250px;
   padding-right: 10px;
   padding-left: 10px;       
-  background-image: url('../Images/Ocean.jpeg');
+  background-image: url("../Images/Ocean.jpeg");
   background-attachment: static;
   background-repeat: no-repeat;
   background-size:  cover;
@@ -29,7 +29,7 @@ body {
   width:150px;
   height:150px;
   border-radius:150%;
-  background-image: url('../Images/me2.jpeg');
+  background-image: url("../Images/me2.jpeg");
   border-color: white;
   border-width: 1px;
   border-style: solid;
