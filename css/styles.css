@@ -35,9 +35,9 @@ body {
   border-style: solid;
   border-radius: 50%; 
   text-align: center;
-  top: 475px;
+  /*top: 475px;*/
   /*position: bottom-center;*/
-  /*bottom: 85vh;*/
+  margin-top: 70vh;
   
 }
 
