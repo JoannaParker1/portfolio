@@ -10,7 +10,7 @@ body {
 }
 
 .jumbotron {
-  padding-top: 30vh;
+  padding-top: 24vh;
   padding-right: 10px;
   padding-left: 10px;       
   background-image: url("../Images/Ocean.jpeg");
@@ -35,15 +35,15 @@ body {
   border-style: solid;
   border-radius: 50%; 
   text-align: center;
-  top-padding: 30vh;
-  min-height: 150px;
-  max-height: 150px;
+  top-padding: 2vh;
+  /*min-height: 125px;
+  max-height: 125px;*/
   /*position: bottom-center;*/
   /*margin-top: 20vh;*/
 }
 
 .row {
-  padding-top: 60px;
+  padding-top: 80px;
   padding-bottom: 17px;
   padding-left: 10px;
   padding-right: 10px;
