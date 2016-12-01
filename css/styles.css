@@ -20,22 +20,24 @@ body {
   background-position: center;
   color: white;
   text-shadow: 1px 1px #060606;
-  font-variant-position: 10px;
-  min-height: 25vh;
+  font-variant-position: 10px; 
+  min-height: 20vh;
   max-height: 75vh !important; 
 }
 
 .circle {
-  width:150px;
-  height:150px;
+  width:165px;
+  height:165px;
   border-radius:150%;
   background-image: url("../Images/me2.jpeg");
   border-color: white;
   border-width: 1px;
   border-style: solid;
-  border-radius: 50%; 
-  text-align: center;
-  top-padding: 2vh;
+  border-radius: 50%;
+  padding-top: 20px;
+  /*position: bottom;*/
+  /*text-align: center-bottom;
+  top-padding: 5vh;*/
 }
 
 .row {
@@ -44,8 +46,6 @@ body {
   padding-left: 10px;
   padding-right: 10px;
   min-height: 50vh;
-  overflow: auto;
-  width: 100%;
 }
 
 h1 {
