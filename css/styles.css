@@ -21,7 +21,7 @@ body {
   color: white;
   text-shadow: 1px 1px #060606;
   font-variant-position: 10px;
-  min-height: 75vh;
+  min-height: 25vh;
   max-height: 75vh !important; 
 }
 
@@ -36,16 +36,6 @@ body {
   border-radius: 50%; 
   text-align: center;
   top-padding: 2vh;
-  /*min-height: 125px;
-  max-height: 125px;*/
-  /*position: bottom-center;*/
-  /*margin-top: 20vh;*/
-}
-
-.column1of3, .column2of3, .column3of3 {
-  width: 300px;
-  float: left;
-  margin: 10px;
 }
 
 .row {
@@ -54,6 +44,8 @@ body {
   padding-left: 10px;
   padding-right: 10px;
   min-height: 50vh;
+  overflow: auto;
+  width: 100%;
 }
 
 h1 {
