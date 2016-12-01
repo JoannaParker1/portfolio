@@ -81,7 +81,8 @@ p {
 }
 
 .media {
-  text-align: center;
+  padding-left: 70px;
+  /*text-align: center;*/
 }
 
 .fa-facebook-square {
