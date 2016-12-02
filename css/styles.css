@@ -26,8 +26,8 @@ body {
 }
 
 .circle {
-  width:165px;
-  height:165px;
+  width:155px;
+  height:155px;
   border-radius:150%;
   background-image: url("../Images/me2.jpeg");
   border-color: white;
@@ -81,7 +81,6 @@ p {
 .media {
   padding-left: 70px;
   padding-top: 10px;
-  /*text-align: center;*/
 }
 
 .fa-facebook-square {
