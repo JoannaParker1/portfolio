@@ -91,71 +91,35 @@ p {
 
 .media {
   padding-top: 30px;
+  padding-bottom: 10px;
 }
 
 .fa-facebook-square {
-  font-size: 28px;
+  font-size: 34px;
 }
 
 .fa-github-square {
-  font-size: 28px;
+  font-size: 34px;
 }
 
 .fa-linkedin-square {
-  font-size: 28px;
+  font-size: 34px;
 }
 
 .fa-pinterest-square {
-  font-size: 28px;
+  font-size: 34px;
 }
-
-
-
-
-.button {
-   transition:all .25s ease-in-out;
-   -moz-transition:all .25s ease-in-out;
-   -webkit-transition:all .25s ease-in-out;
-  
-  float:left;
-  height:30px;
-  width:30px;
-  margin-left:15px;
-  opacity:.5;
-}
-
-.button:hover {
-   transition:all .25s ease-in-out;
-   -moz-transition:all .25s ease-in-out;
-   -webkit-transition:all .25s ease-in-out;
-  opacity:1;
-  
-  margin-top:-10px;
-  -webkit-box-shadow:  0px 3px 10px 2px rgba(0, 0, 0, .5);
-  box-shadow:  0px 3px 6px 1px rgba(0, 0, 0, .5);
-}
-
-.button img {
-  margin-top:-10px;
-  margin-left:-10px;
-}
-
-/* instagram image fix */
-#img_2 { 
-  margin:0;
-}
-
-
 
 
 .footer {
   background: #000000;
   padding-right: 10px;
-  padding-left: 10px;     
+  padding-left: 10px;
+  padding-top: 10px;     
   background-position: center;
   font-family: 'Shadows Into Light', cursive;
   text-align: center;
   color: #60ff00;
-  font-size: 23px;
+  font-size: 30px;
   height: 43px;
 }
